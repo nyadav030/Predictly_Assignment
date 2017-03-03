@@ -1,0 +1,9 @@
+How To run application 
+1.Make a new database with name `csv_import_demo`
+2.Import sample.zip
+3.Open upload.php
+
+ 
+Chart [1-5] shows insight task one by one           // 2charts working
+Data1 [1-5] shows json data according for all given tasks      // All working fetch json data according all task
+graph.php shows all graph
